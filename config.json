@@ -1,0 +1,10 @@
+{
+    "email_to": "destinatario@example.com",
+    "email_subject": "Alerta de cantidad de archivos en bucket",
+    "email_body": "La cantidad de archivos en el bucket ha excedido el límite especificado.",
+    "email_sender": "remitente@example.com",
+    "bucket_name": "nombre_del_bucket",
+    "bucket_directory": "ruta_del_directorio",
+    "limite_archivos": 100,
+    "google_credencial": "/ruta/a/archivo/de/credenciales.json"
+}
